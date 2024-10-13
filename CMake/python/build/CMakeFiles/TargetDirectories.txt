@@ -1,0 +1,5 @@
+/home/ikostov2/repos/personal/build-tools/CMake/python/build/CMakeFiles/create-venv.dir
+/home/ikostov2/repos/personal/build-tools/CMake/python/build/CMakeFiles/install-deps.dir
+/home/ikostov2/repos/personal/build-tools/CMake/python/build/CMakeFiles/run.dir
+/home/ikostov2/repos/personal/build-tools/CMake/python/build/CMakeFiles/edit_cache.dir
+/home/ikostov2/repos/personal/build-tools/CMake/python/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,4 @@
+/home/ikostov2/repos/personal/sandbox/java/simple-java-maven-app/build/CMakeFiles/JavaHelloJar.dir
+/home/ikostov2/repos/personal/sandbox/java/simple-java-maven-app/build/CMakeFiles/run.dir
+/home/ikostov2/repos/personal/sandbox/java/simple-java-maven-app/build/CMakeFiles/edit_cache.dir
+/home/ikostov2/repos/personal/sandbox/java/simple-java-maven-app/build/CMakeFiles/rebuild_cache.dir
